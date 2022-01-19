@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>Self Introduction about Myself</title>
+<body>
+<h1>About Myself</h1>
+<p>
+I am Akalyadevi.B,I m from coimbatore.I completed my schooling in JAS mr hr
+sec school.I m currently pursuing 3rd IT.My short term goal to place in a MNC 
+company and my long term goal to be explore my life.
+</p>
+<h2>Special qualities of me</h2>
+<p>
+I love dancing,singing, listening music.
+I love my friends.
+</p>
+<h3>personal details</h3>
+<form>
+<input type="text"placeholder="Firstname"><br>
+<input type="text"placeholder="last name"><br>
+<input type="text"placeholder="Class"<br>
+<input type="text"placeholder="cgpa"<br>
+<input type="end">
+</br>
+</form>
+</body>
+</head>
+</html>
+
